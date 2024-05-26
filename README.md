@@ -4,7 +4,7 @@ Welcome to the [LeetHub SQL 50](https://leetcode.com/studyplan/top-sql-50/) Solu
 
 ## About LeetHub SQL 50
 
-The SQL 50 on LeetHub provides an extensive collection of SQL problems covering a wide range of concepts and techniques. This challenge includes easy, medium, and hard-level questions from various topics such as:
+[The SQL 50 on LeetHub](https://leetcode.com/studyplan/top-sql-50/) provides an extensive collection of SQL problems covering a wide range of concepts and techniques. This challenge includes easy, medium, and hard-level questions from various topics such as:
 
 - Selects
 - Basic Joins
