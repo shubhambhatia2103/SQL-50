@@ -1,6 +1,6 @@
 # LeetHub SQL 50 Solutions
 
-Welcome to the [LeetHub SQL 50](https://leetcode.com/problemset/database/) Solutions repository, where you can find comprehensive solutions to various LeetHub SQL problems. Whether you are a beginner or an experienced coder, this repository aims to provide clear and efficient solutions to help you improve your SQL skills.
+Welcome to the [LeetHub SQL 50](https://leetcode.com/studyplan/top-sql-50/) Solutions repository, where you can find comprehensive solutions to various LeetHub SQL problems. Whether you are a beginner or an experienced coder, this repository aims to provide clear and efficient solutions to help you improve your SQL skills.
 
 ## About LeetHub SQL 50
 
